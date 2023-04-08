@@ -1,5 +1,5 @@
 # Boundary-Guided Transformer
-This repo is the implementation of our paper "[a boundary-guided transformer based method for measuring distance from rectal tumor to anal verge on magnetic resonance images](https://www.cell.com/patterns/pdf/S2666-3899(23)00048-X.pdf)" published in (Patterns)[https://www.cell.com/patterns].
+This repo is the implementation of our paper "[a boundary-guided transformer based method for measuring distance from rectal tumor to anal verge on magnetic resonance images](https://www.cell.com/patterns/pdf/S2666-3899(23)00048-X.pdf)" published in [Patterns](https://www.cell.com/patterns).
 
 DATA_Dataset: https://pan.baidu.com/s/1Rndj5ympeC2yRp2RF8Sv9w 
 Extraction code：1234
